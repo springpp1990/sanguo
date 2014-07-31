@@ -1,7 +1,7 @@
 {
   "init_cfg": {
-    "isLandscape": true,
-    "name": "wscqGame",
+    "isLandscape": false,
+    "name": "wscqKP",
     "width": 1136,
     "height": 640,
     "entry": "src/main.lua",
